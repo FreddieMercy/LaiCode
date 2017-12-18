@@ -1,0 +1,14 @@
+/Java/dist/
+Python/.idea/misc.xml/
+Python/.idea/workspace.xml
+Java/.idea/misc.xml
+Java/.idea/modules.xml
+Java/.idea/workspace.xml
+Java/out/**
+Scala/build.sbt
+Scala/project/**
+Scala/target/**
+Scala/.idea/**
+Swift/.vscode
+Swift/leetcode.xcodeproj
+Java/.idea/vcs.xml
