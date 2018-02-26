@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "laiCode", "laiCode\laiCode.vcxproj", "{B02A615D-91C1-42A0-BB1A-7B9EFCF21758}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B02A615D-91C1-42A0-BB1A-7B9EFCF21758}.Debug|x64.ActiveCfg = Debug|x64
+		{B02A615D-91C1-42A0-BB1A-7B9EFCF21758}.Debug|x64.Build.0 = Debug|x64
+		{B02A615D-91C1-42A0-BB1A-7B9EFCF21758}.Debug|x86.ActiveCfg = Debug|Win32
+		{B02A615D-91C1-42A0-BB1A-7B9EFCF21758}.Debug|x86.Build.0 = Debug|Win32
+		{B02A615D-91C1-42A0-BB1A-7B9EFCF21758}.Release|x64.ActiveCfg = Release|x64
+		{B02A615D-91C1-42A0-BB1A-7B9EFCF21758}.Release|x64.Build.0 = Release|x64
+		{B02A615D-91C1-42A0-BB1A-7B9EFCF21758}.Release|x86.ActiveCfg = Release|Win32
+		{B02A615D-91C1-42A0-BB1A-7B9EFCF21758}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {646D48DF-C620-4FBF-BCF6-8C04027C794D}
+	EndGlobalSection
+EndGlobal
