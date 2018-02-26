@@ -1,0 +1,498 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\_2017">
+      <UniqueIdentifier>{dda5a2b3-5cc7-42c6-9afd-ffd928c051aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\July2017">
+      <UniqueIdentifier>{1fb9f92a-4432-4b71-8b6b-974794d5163c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\July2017\July10th2017">
+      <UniqueIdentifier>{3881f28e-3a2e-4e8c-9d82-520364ecc877}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Jun2017">
+      <UniqueIdentifier>{ede8e4fb-3fad-4a4a-a83f-1d1dd001e60f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Jun2017\Jun1st2017">
+      <UniqueIdentifier>{5d56ce63-5f36-4f45-89e1-63efbe728fb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Jun2017\Jun2nd2017">
+      <UniqueIdentifier>{eeeb2809-ca39-4f98-988a-8068c4711e8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Jun2017\Jun3rd2017">
+      <UniqueIdentifier>{efbdaccd-acd1-4f66-9bb8-d52535d22a29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Jun2017\Jun4th2017">
+      <UniqueIdentifier>{f32783fd-9654-4707-931a-0ba581fb74c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Jun2017\Jun5th2017">
+      <UniqueIdentifier>{b3bfdfeb-b465-44fc-ad10-d0c6ac059e4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Jun2017\Jun6th2017">
+      <UniqueIdentifier>{3b5bace6-21fd-4e08-9b92-f32c2baa5ba3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Jun2017\Jun7th2017">
+      <UniqueIdentifier>{eb5acb80-8a21-4ebd-a098-2b52234bd3c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Jun2017\Jun8th2017">
+      <UniqueIdentifier>{a14b4abb-897b-4afa-8173-8ce7ffdde817}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Jun2017\Jun11th2017">
+      <UniqueIdentifier>{5aea7829-622a-41aa-80eb-9e60ed43ae7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Jun2017\Jun13th2017">
+      <UniqueIdentifier>{532281a9-7ffc-4dd6-871c-662d6fd07277}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Jun2017\Jun12th2017">
+      <UniqueIdentifier>{d68763f8-56ce-4dbd-a572-7c5dc3a207f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Jun2017\Jun15th2017">
+      <UniqueIdentifier>{ba60f331-a069-4383-a0a5-e06389d9cf3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Jun2017\Jun16th2017">
+      <UniqueIdentifier>{db47884f-9d55-4f18-8636-dde98306df1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Jun2017\Jun19th2017">
+      <UniqueIdentifier>{deb6ca72-5548-4138-bfe8-b23978ec5fea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Jun2017\Jun14th2017">
+      <UniqueIdentifier>{3c93a576-c652-4705-9471-17720337c6ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Jun2017\Jun17th2017">
+      <UniqueIdentifier>{dd244216-17a8-4e7b-a20c-b2454a1c0947}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Jun2017\Jun18th2017">
+      <UniqueIdentifier>{eb0d3c41-97a0-4bea-85bd-213c18b1fa2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Jun2017\Jun9th2017">
+      <UniqueIdentifier>{f82e9e18-a596-4488-a570-f85c236ef460}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\May2017">
+      <UniqueIdentifier>{c8b54830-d82c-4754-8c19-9b40c4c65a28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\May2017\May30th2017">
+      <UniqueIdentifier>{6a6adc69-9591-475e-a17a-0e16d3848828}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\May2017\May31st2017">
+      <UniqueIdentifier>{46520da0-0668-4288-986f-2eb93bc0d059}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Sep2017">
+      <UniqueIdentifier>{76e72576-3d35-4c5c-b68e-f2f5df04255d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Sep2017\Sep05th2017">
+      <UniqueIdentifier>{bf676346-2451-41c9-91c6-0fd3cb28acd7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Sep2017\Sep06th2017">
+      <UniqueIdentifier>{d2f8aa87-38f8-46f7-8163-838dbb8afd22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Sep2017\Sep07th2017">
+      <UniqueIdentifier>{dcbc002e-ba45-475b-b9af-723d876448f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Sep2017\Sep09th2017">
+      <UniqueIdentifier>{15d43e8b-2269-48d6-826b-4c31ec9517a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Sep2017\Sep08th2017">
+      <UniqueIdentifier>{15657364-0287-40bf-8d9b-7a9ab1055b68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Aug2017">
+      <UniqueIdentifier>{f7cf4ef6-baff-4227-bcec-cfbd432e49c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Aug2017\Aug12th2017">
+      <UniqueIdentifier>{6b5899c7-f841-4582-9ad9-a967ff3e7d13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\July2017\July05th2017">
+      <UniqueIdentifier>{00253670-ff5c-46c5-a937-2fa43479677e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\July2017\July06th2017">
+      <UniqueIdentifier>{765e5508-9337-4ff0-b220-5055fb640b87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\July2017\July07th2017">
+      <UniqueIdentifier>{dee6b49b-d3d1-4657-b8c3-281c28e245f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\July2017\July08th2017">
+      <UniqueIdentifier>{21f96fb7-d290-40d2-9e0d-0c88b04c4722}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\July2017\July09th2017">
+      <UniqueIdentifier>{21fc3143-ca67-44ea-a9c3-55753c9d17a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Dec2017">
+      <UniqueIdentifier>{02a98a63-7b12-4f43-971e-54c7a03ed9f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Dec2017\Dec17th2017">
+      <UniqueIdentifier>{31b16cba-6704-4bda-a1d8-ce856fe01e3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Dec2017\Dec16th2017">
+      <UniqueIdentifier>{04447e2c-7c99-4a41-bf3e-4dceed2852a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2017\Dec2017\Dec18th2017">
+      <UniqueIdentifier>{4f5fb259-b8fb-4948-ad38-65cf2590f80b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2018">
+      <UniqueIdentifier>{387e3732-b928-45c4-8856-30fa89d08043}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2018\Jan2017">
+      <UniqueIdentifier>{50cdc615-12ba-4c9d-a006-c0a1e2861847}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2018\Jan2017\Jan02nd2017">
+      <UniqueIdentifier>{5920a70b-5cd2-4c2c-9063-30c9174b1e4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\_2018\Jan2017\Jan01st2017">
+      <UniqueIdentifier>{e4e18e8d-9ff3-42f8-b842-cb59cacde3c0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="_188BestTimeToBuyAndSellStockIV.h">
+      <Filter>Header Files\_2017\May2017\May31st2017</Filter>
+    </ClCompile>
+    <ClCompile Include="_109ConvertSortedListToBinarySearchTree.h">
+      <Filter>Header Files\_2017\July2017\July08th2017</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="_214ShortestPalindrome.h">
+      <Filter>Header Files\_2017\May2017\May30th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_477TotalHammingDistance.h">
+      <Filter>Header Files\_2017\May2017\May30th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_54SpiralMatrix.h">
+      <Filter>Header Files\_2017\May2017\May30th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_122BestTimeToBuyAndSellStockII.h">
+      <Filter>Header Files\_2017\Jun2017\Jun3rd2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_124BinaryTreeMaximumPathSum.h">
+      <Filter>Header Files\_2017\Jun2017\Jun3rd2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_441ArrangingCoins.h">
+      <Filter>Header Files\_2017\Jun2017\Jun3rd2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_121BestTimeToBuyAndSellStock.h">
+      <Filter>Header Files\_2017\May2017\May31st2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_123BestTimeToBuyAndSellStockIII.h">
+      <Filter>Header Files\_2017\May2017\May31st2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_508MostFrequentSubtreeSum.h">
+      <Filter>Header Files\_2017\Jun2017\Jun4th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_572SubtreeOfAnotherTree.h">
+      <Filter>Header Files\_2017\Jun2017\Jun4th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_102BinaryTreeLevelOrderTraversal.h">
+      <Filter>Header Files\_2017\Jun2017\Jun4th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_421MaximumXOROfTwoNumbersInAnArray.h">
+      <Filter>Header Files\_2017\Jun2017\Jun1st2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_1TwoSum.h">
+      <Filter>Header Files\_2017\Jun2017\Jun6th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_386LexicographicalNumbers.h">
+      <Filter>Header Files\_2017\Jun2017\Jun5th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_605CanPlaceFlowers.h">
+      <Filter>Header Files\_2017\Jun2017\Jun7th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_496NextGreaterElementI.h">
+      <Filter>Header Files\_2017\Jun2017\Jun7th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_503NextGreaterElementII.h">
+      <Filter>Header Files\_2017\Jun2017\Jun7th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_556NextGreaterElementIII.h">
+      <Filter>Header Files\_2017\Jun2017\Jun2nd2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_146LRUCache.h">
+      <Filter>Header Files\_2017\Jun2017\Jun8th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_295FindMedianFromDataStream.h">
+      <Filter>Header Files\_2017\Jun2017\Jun8th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_144BinaryTreePreorderTraversal.h">
+      <Filter>Header Files\_2017\Jun2017\Jun8th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_401BinaryWatch.h">
+      <Filter>Header Files\_2017\Jun2017\Jun1st2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_129SumRootToLeafNumbers.h">
+      <Filter>Header Files\_2017\Jun2017\Jun1st2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_537ComplexNumberMultiplication.h">
+      <Filter>Header Files\_2017\Jun2017\Jun2nd2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_483SmallestGoodBase.h">
+      <Filter>Header Files\_2017\Jun2017\Jun2nd2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_11ContainerWithMostWater.h">
+      <Filter>Header Files\_2017\Jun2017\Jun5th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_393UTF-8Validation.h">
+      <Filter>Header Files\_2017\Jun2017\Jun5th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_417PacificAtlanticWaterFlow.h">
+      <Filter>Header Files\_2017\Jun2017\Jun6th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_482LicenseKeyFormatting.h">
+      <Filter>Header Files\_2017\Jun2017\Jun6th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_587ErectTheFence.h">
+      <Filter>Header Files\_2017\Jun2017\Jun11th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_155MinStack.h">
+      <Filter>Header Files\_2017\Jun2017\Jun13th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_103BinaryTreeZigzagLevelOrderTraversal.h">
+      <Filter>Header Files\_2017\Jun2017\Jun13th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_258AddDigits.h">
+      <Filter>Header Files\_2017\Jun2017\Jun13th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_306AdditiveNumber.h">
+      <Filter>Header Files\_2017\Jun2017\Jun12th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_117PopulatingNextRightPointersInEachNodeII.h">
+      <Filter>Header Files\_2017\Jun2017\Jun15th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_297SerializeAndDeserializeBinaryTree.h">
+      <Filter>Header Files\_2017\Jun2017\Jun15th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_529Minesweeper.h">
+      <Filter>Header Files\_2017\Jun2017\Jun16th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_198HouseRobber.h">
+      <Filter>Header Files\_2017\Jun2017\Jun16th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_213HouseRobberII.h">
+      <Filter>Header Files\_2017\Jun2017\Jun16th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_495TeemoAttacking.h">
+      <Filter>Header Files\_2017\Jun2017\Jun11th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_60PermutationSequence.h">
+      <Filter>Header Files\_2017\Jun2017\Jun11th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_168ExcelSheetColumnTitle.h">
+      <Filter>Header Files\_2017\Jun2017\Jun12th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_94BinaryTreeInorderTraversal.h">
+      <Filter>Header Files\_2017\Jun2017\Jun12th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_466CountTheRepetitions.h">
+      <Filter>Header Files\_2017\Jun2017\Jun19th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_228SummaryRanges.h">
+      <Filter>Header Files\_2017\Jun2017\Jun19th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_75SortColors.h">
+      <Filter>Header Files\_2017\Jun2017\Jun19th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_409LongestPalindrome.h">
+      <Filter>Header Files\_2017\Jun2017\Jun14th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_460LFUCache.h">
+      <Filter>Header Files\_2017\Jun2017\Jun14th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_133CloneGraph.h">
+      <Filter>Header Files\_2017\Jun2017\Jun14th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_221MaximalSquare.h">
+      <Filter>Header Files\_2017\July2017\July05th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_4MedianofTwoSortedArrays.h">
+      <Filter>Header Files\_2017\July2017\July05th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_2AddTwoNumbers.h">
+      <Filter>Header Files\_2017\July2017\July05th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_15_3Sum.h">
+      <Filter>Header Files\_2017\Jun2017\Jun17th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_98ValidateBinarySearchTree.h">
+      <Filter>Header Files\_2017\Jun2017\Jun17th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_219ContainsDuplicateII.h">
+      <Filter>Header Files\_2017\Jun2017\Jun18th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_217ContainsDuplicate.h">
+      <Filter>Header Files\_2017\Jun2017\Jun18th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_220ContainsDuplicateIII.h">
+      <Filter>Header Files\_2017\Jun2017\Jun18th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_461HammingDistance.h">
+      <Filter>Header Files\_2017\Jun2017\Jun9th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_504Base7.h">
+      <Filter>Header Files\_2017\Jun2017\Jun9th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_365WaterAndJugProblem.h">
+      <Filter>Header Files\_2017\Jun2017\Jun9th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_116PopulatingNextRightPointersInEachNode.h">
+      <Filter>Header Files\_2017\July2017\July06th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_257BinaryTreePaths.h">
+      <Filter>Header Files\_2017\July2017\July06th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_591TagValidator.h">
+      <Filter>Header Files\_2017\July2017\July06th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_16_3SumClosest.h">
+      <Filter>Header Files\_2017\July2017\July07th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_18_4Sum.h">
+      <Filter>Header Files\_2017\July2017\July07th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_238ProductOfArrayExceptSelf.h">
+      <Filter>Header Files\_2017\July2017\July07th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_166FractionToRecurringDecimal.h">
+      <Filter>Header Files\_2017\July2017\July08th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_268MissingNumber.h">
+      <Filter>Header Files\_2017\July2017\July08th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_134GasStation.h">
+      <Filter>Header Files\_2017\July2017\July09th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_207CourseSchedule.h">
+      <Filter>Header Files\_2017\July2017\July09th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_210CourseScheduleII.h">
+      <Filter>Header Files\_2017\July2017\July09th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_630CourseScheduleIII.h">
+      <Filter>Header Files\_2017\July2017\July10th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_414ThirdMaximumNumber.h">
+      <Filter>Header Files\_2017\July2017\July10th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_287FindTheDuplicateNumber.h">
+      <Filter>Header Files\_2017\July2017\July10th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_89GrayCodes.h">
+      <Filter>Header Files\_2017\Sep2017\Sep05th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_494TargetSum.h">
+      <Filter>Header Files\_2017\Sep2017\Sep05th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_126WordLadderII.h">
+      <Filter>Header Files\_2017\Sep2017\Sep05th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_167TwoSumII-InputArrayIsSorted.h">
+      <Filter>Header Files\_2017\Sep2017\Sep06th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_199BinaryTreeRightSideView.h">
+      <Filter>Header Files\_2017\Sep2017\Sep06th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_235LowestCommonAncestorOfABinarySearchTree.h">
+      <Filter>Header Files\_2017\Sep2017\Sep06th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_396RotateFunction.h">
+      <Filter>Header Files\_2017\Sep2017\Sep07th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_617MergeTwoBinaryTrees.h">
+      <Filter>Header Files\_2017\Sep2017\Sep07th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_451SortCharactersByFrequency.h">
+      <Filter>Header Files\_2017\Sep2017\Sep07th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_535EncodeAndDecodeTinyURL.h">
+      <Filter>Header Files\_2017\Sep2017\Sep08th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_251Flatten2DVector.h">
+      <Filter>Header Files\_2017\Sep2017\Sep08th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_253MeetingRoomsII.h">
+      <Filter>Header Files\_2017\Sep2017\Sep08th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_277FindTheCelebrity.h">
+      <Filter>Header Files\_2017\Sep2017\Sep05th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_285InorderSuccessorInBST.h">
+      <Filter>Header Files\_2017\Sep2017\Sep09th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_348DesignTicTacToe.h">
+      <Filter>Header Files\_2017\Sep2017\Sep09th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_163MissingRanges.h">
+      <Filter>Header Files\_2017\Sep2017\Sep09th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_280WiggleSort.h">
+      <Filter>Header Files\_2017\Aug2017\Aug12th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_156BinaryTreeUpsideDown.h">
+      <Filter>Header Files\_2017\Aug2017\Aug12th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_170TwoSumIII-DataStructureDesign.h">
+      <Filter>Header Files\_2017\Aug2017\Aug12th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_3LongestSubstringWithoutRepeatingCharacters.h">
+      <Filter>Header Files\_2017\Jun2017\Jun15th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_625MinimumFactorization.h">
+      <Filter>Header Files\_2017\Jun2017\Jun17th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_292NimGame.h">
+      <Filter>Header Files\_2017\Dec2017\Dec17th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_472ConcatenatedWords.h">
+      <Filter>Header Files\_2017\Dec2017\Dec16th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_502IPO.h">
+      <Filter>Header Files\_2017\Dec2017\Dec16th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_541ReverseStringII.h">
+      <Filter>Header Files\_2017\Dec2017\Dec16th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_518CoinChange2.h">
+      <Filter>Header Files\_2017\Dec2017\Dec17th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_61RotateList.h">
+      <Filter>Header Files\_2017\Dec2017\Dec17th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_643MaximumAverageSubarrayI.h">
+      <Filter>Header Files\_2017\Dec2017\Dec18th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_405ConvertANumberToHexadecimal.h">
+      <Filter>Header Files\_2017\Dec2017\Dec18th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_697DegreeOfAnArray.h">
+      <Filter>Header Files\_2017\Dec2017\Dec18th2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_514FreedomTrail.h">
+      <Filter>Header Files\_2018\Jan2017\Jan01st2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_446ArithmeticSlicesII-Subsequence.h">
+      <Filter>Header Files\_2018\Jan2017\Jan01st2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_455AssignCookies.h">
+      <Filter>Header Files\_2018\Jan2017\Jan01st2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_557ReverseWordsInAStringIII.h">
+      <Filter>Header Files\_2018\Jan2017\Jan02nd2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_530MinimumAbsoluteDifferenceInBST.h">
+      <Filter>Header Files\_2018\Jan2017\Jan02nd2017</Filter>
+    </ClInclude>
+    <ClInclude Include="_729MyCalendarI.h">
+      <Filter>Header Files\_2018\Jan2017\Jan02nd2017</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

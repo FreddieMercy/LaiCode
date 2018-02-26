@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\junhao.zhang.freddie\github\leetcode\cpp\leetcode\_697degreeofanarray.h(46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  leetcode.vcxproj -> C:\Users\junhao.zhang.freddie\gitHub\leetcode\CPP\x64\Debug\leetcode.exe
