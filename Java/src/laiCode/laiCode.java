@@ -11,7 +11,7 @@ import java.lang.*;
 import java.lang.reflect.Array;
 import java.util.*;
 import java.util.concurrent.DelayQueue;
-
+import LaiOffer.Class6._CombinationsOfCoins.Solution;
 /**
  *
  * @author junhao.zhang.freddie
@@ -24,13 +24,13 @@ public class laiCode {
 
     public static void main(String[] args) {
 
-        StringBuilder a = new StringBuilder("abc");
-        StringBuilder b = new StringBuilder("abc");
-        if (a.equals(b)) {
-            System.out.println(a.hashCode());
-            System.out.println(b.hashCode());
-        } else {
-            System.out.println("Not equal");
+        Solution x = new Solution();
+        for(List<Integer> i : x.combinations(99, new int[]{1,5,10,25})) {
+            for(Integer j : i){
+                System.out.print(j);
+                System.out.print(" ");
+            }
+            System.out.println();
         }
     }
 }
