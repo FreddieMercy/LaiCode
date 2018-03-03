@@ -22,6 +22,15 @@
     <Filter Include="Header Files\laiOffer\Class7">
       <UniqueIdentifier>{510d89e1-3e9c-47e6-891d-ecd89fab4696}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\laiOffer\Class8">
+      <UniqueIdentifier>{5ac2feea-c2a6-4299-9d92-08383a7b4cd2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\laiOffer\Class24">
+      <UniqueIdentifier>{42bd069e-d6aa-4957-810c-2b905bf9d892}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\laiOffer\Class10">
+      <UniqueIdentifier>{82c62a80-aee6-4724-87d6-209f467d9155}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp">
@@ -34,6 +43,45 @@
     </ClInclude>
     <ClInclude Include="_IsBinarySearchTreeOrNot_.h">
       <Filter>Header Files\laiOffer\Class7</Filter>
+    </ClInclude>
+    <ClInclude Include="_RemoveSpaces.h">
+      <Filter>Header Files\laiOffer\Class7</Filter>
+    </ClInclude>
+    <ClInclude Include="_StringReplace.h">
+      <Filter>Header Files\laiOffer\Class8</Filter>
+    </ClInclude>
+    <ClInclude Include="_ReOrderArray.h">
+      <Filter>Header Files\laiOffer\Class8</Filter>
+    </ClInclude>
+    <ClInclude Include="_AllPermutationsII.h">
+      <Filter>Header Files\laiOffer\Class8</Filter>
+    </ClInclude>
+    <ClInclude Include="_AllSubsetsII.h">
+      <Filter>Header Files\laiOffer\Class24</Filter>
+    </ClInclude>
+    <ClInclude Include="_RemoveAdjacentRepeatedCharactersIV.h">
+      <Filter>Header Files\laiOffer\Class7</Filter>
+    </ClInclude>
+    <ClInclude Include="_RemoveCertainCharacters.h">
+      <Filter>Header Files\laiOffer\Class7</Filter>
+    </ClInclude>
+    <ClInclude Include="_RightShiftByNCharacters.h">
+      <Filter>Header Files\laiOffer\Class8</Filter>
+    </ClInclude>
+    <ClInclude Include="_DecompressStringII.h">
+      <Filter>Header Files\laiOffer\Class8</Filter>
+    </ClInclude>
+    <ClInclude Include="_ReverseString.h">
+      <Filter>Header Files\laiOffer\Class8</Filter>
+    </ClInclude>
+    <ClInclude Include="_StringAbbreviationMatching.h">
+      <Filter>Header Files\laiOffer\Class10</Filter>
+    </ClInclude>
+    <ClInclude Include="_MissingNumberI.h">
+      <Filter>Header Files\laiOffer\Class7</Filter>
+    </ClInclude>
+    <ClInclude Include="_ReverseWordsInASentenceI.h">
+      <Filter>Header Files\laiOffer\Class8</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

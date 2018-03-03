@@ -143,8 +143,21 @@
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="_AllPermutationsII.h" />
+    <ClInclude Include="_AllSubsetsII.h" />
+    <ClInclude Include="_DecompressStringII.h" />
     <ClInclude Include="_IsBinarySearchTreeOrNot.h" />
     <ClInclude Include="_IsBinarySearchTreeOrNot_.h" />
+    <ClInclude Include="_MissingNumberI.h" />
+    <ClInclude Include="_RemoveAdjacentRepeatedCharactersIV.h" />
+    <ClInclude Include="_RemoveCertainCharacters.h" />
+    <ClInclude Include="_RemoveSpaces.h" />
+    <ClInclude Include="_ReOrderArray.h" />
+    <ClInclude Include="_ReverseString.h" />
+    <ClInclude Include="_ReverseWordsInASentenceI.h" />
+    <ClInclude Include="_RightShiftByNCharacters.h" />
+    <ClInclude Include="_StringAbbreviationMatching.h" />
+    <ClInclude Include="_StringReplace.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

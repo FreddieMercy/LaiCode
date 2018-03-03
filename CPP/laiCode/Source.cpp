@@ -14,10 +14,11 @@
 #include <algorithm>
 #include <stack>
 #include <set>
-#include "_IsBinarySearchTreeOrNot.h"
+#include "_DecompressStringII.h"
 using namespace std;
 
 int main(int argc, char*argv[])
 {
-	cout << "Pass" << endl;
+	Solution x;
+	cout << x.decompress("x2y0i0z3") << endl;
 }
