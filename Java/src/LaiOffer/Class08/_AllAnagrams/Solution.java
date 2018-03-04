@@ -1,4 +1,4 @@
-package LaiOffer.Class8._AllAnagrams;
+package LaiOffer.Class08._AllAnagrams;
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Arrays;
