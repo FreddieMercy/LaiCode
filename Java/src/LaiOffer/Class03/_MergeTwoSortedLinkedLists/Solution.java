@@ -3,7 +3,7 @@ To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
 and open the template in the editor.
  */
-package LaiOffer.Class3._MergeTwoSortedLinkedLists;
+package LaiOffer.Class03._MergeTwoSortedLinkedLists;
 import java.lang.*;
 
 /**

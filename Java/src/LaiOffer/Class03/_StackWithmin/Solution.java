@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package LaiOffer.Class3._StackWithmin;
+package LaiOffer.Class03._StackWithmin;
 import java.util.List;
 import java.util.ArrayList;
 /**

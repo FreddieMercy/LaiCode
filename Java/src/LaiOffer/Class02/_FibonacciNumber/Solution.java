@@ -1,4 +1,4 @@
-package LaiOffer.Class2._FibonacciNumber;
+package LaiOffer.Class02._FibonacciNumber;
 import java.util.*;
 
 public class Solution {

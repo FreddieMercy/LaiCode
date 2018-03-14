@@ -1,4 +1,4 @@
-package LaiOffer.Class4._CheckIfBinaryTreeIsBalanced;
+package LaiOffer.Class04._CheckIfBinaryTreeIsBalanced;
 import java.util.List;
 import java.util.ArrayList;
 

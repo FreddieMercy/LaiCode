@@ -1,4 +1,4 @@
-package LaiOffer.Class2._ClassicalBinarySearch;
+package LaiOffer.Class02._ClassicalBinarySearch;
 
 public class Solution {
     private int binarySearchHelper(int[] array, int target, int left, int right) {

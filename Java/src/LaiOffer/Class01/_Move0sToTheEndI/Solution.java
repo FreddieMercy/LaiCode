@@ -1,4 +1,4 @@
-package LaiOffer.Class1._Move0sToTheEndI;
+package LaiOffer.Class01._Move0sToTheEndI;
 
 public class Solution {
     private void swap(int[] array, int i, int j){

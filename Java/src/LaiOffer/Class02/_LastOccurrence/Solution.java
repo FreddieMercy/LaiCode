@@ -1,4 +1,4 @@
-package LaiOffer.Class2._LastOccurrence;
+package LaiOffer.Class02._LastOccurrence;
 
 public class Solution {
     private int binarySearchHelper(int[] array, int target, int left, int right) {

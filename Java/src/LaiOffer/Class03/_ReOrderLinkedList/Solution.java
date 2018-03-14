@@ -1,4 +1,4 @@
-package LaiOffer.Class3._ReOrderLinkedList;
+package LaiOffer.Class03._ReOrderLinkedList;
 import java.util.*;
 
 class ListNode {

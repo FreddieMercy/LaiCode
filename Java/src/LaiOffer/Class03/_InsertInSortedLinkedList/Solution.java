@@ -1,4 +1,4 @@
-package LaiOffer.Class3._InsertInSortedLinkedList;
+package LaiOffer.Class03._InsertInSortedLinkedList;
 
 class ListNode {
   public int value;

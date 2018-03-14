@@ -3,12 +3,74 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package LaiOffer.Class1._QuickSort;
+package LaiOffer.Class01._QuickSort;
+
+import java.util.Random;
 
 /**
  *
  * @author junhaozhang
  */
+
+public class Solution {
+    private void swap(int[] array, int from, int to){
+        if(array==null || from <0 || to<0 || from > array.length-1 || to>array.length-1){
+            throw new ArrayIndexOutOfBoundsException();
+        }
+
+        int tmp = array[from];
+        array[from] = array[to];
+        array[to] = tmp;
+    }
+
+    private int partation(int[] array, int start, int end) {
+
+        swap(array, (new Random().nextInt(end - start)) + start, end);
+
+        int i = start;
+        int j = end;
+
+        while (i < j) {
+
+            while (i < j && array[i] <= array[end]) {
+                i++;
+            }
+
+            while (j > i && array[j] >= array[end]) {
+                j--;
+            }
+
+            if (j > i) {
+                swap(array, j, i);
+            }
+        }
+
+        swap(array, i, end);
+
+        return i;
+    }
+
+    private void quickSortHelper(int[] array, int start, int end) {
+        if (start >= end || array == null) {//Error Handling
+            return;
+        }
+
+        int pivotIndex = partation(array,start,end);
+        quickSortHelper(array,start,pivotIndex-1);
+        quickSortHelper(array,pivotIndex+1,end);
+
+    }
+    public int[] quickSort(int[] array) {
+        // Write your solution here
+        if (array == null||array.length <=1) {//Error Handling
+            return array;
+        }
+        quickSortHelper(array, 0, array.length - 1);
+        return array;
+    }
+}
+
+/*
 public class Solution {
     private void quickSortHelper(int[] array, int start, int end) {
         if (start >= end || array == null) {//Error Handling
@@ -52,3 +114,4 @@ public class Solution {
         return array;
     }
 }
+*/

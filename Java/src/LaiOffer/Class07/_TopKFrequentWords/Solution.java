@@ -3,7 +3,7 @@ To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
 and open the template in the editor.
  */
-package LaiOffer.Class7._TopKFrequentWords;
+package LaiOffer.Class07._TopKFrequentWords;
 import java.util.Map;
 import java.util.List;
 import java.util.PriorityQueue;

@@ -3,12 +3,70 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package LaiOffer.Class1._MergeSort;
+package LaiOffer.Class01._MergeSort;
+
+import java.util.Arrays;
 
 /**
  *
  * @author junhaozhang
  */
+
+
+public class Solution {
+    private void mergellTogether(int[] array, int[] tmp, int left,int mid, int right) {
+        for (int i = left; i <= right; ++i) {
+            tmp[i] = array[i];
+        }
+
+        int rightIndex = mid+1;
+        int leftIndex = left;
+
+        while (leftIndex <= mid && rightIndex <= right) {
+
+            if (tmp[leftIndex] < tmp[rightIndex]) {
+                array[left] = tmp[leftIndex];
+                leftIndex++;
+            } else {
+                array[left] = tmp[rightIndex];
+                rightIndex++;
+            }
+            left++;
+
+        }
+
+        while (leftIndex <= mid) {
+            array[left] = tmp[leftIndex];
+            leftIndex++;
+            left++;
+        }
+    }
+
+    private void splitHalf(int[] array, int[] tmp, int left, int right) {
+        if (left >= right) {
+            return;
+        }
+        int mid = (right - left) / 2 + left;
+        splitHalf(array, tmp, left, mid);
+        splitHalf(array, tmp, mid + 1, right);
+        mergellTogether(array, tmp, left,mid, right);
+    }
+
+    public int[] mergeSort(int[] array) {
+        // Write your solution here.
+        if (array.length == 0 || array == null ) {
+            return array;
+        }
+        int[] tmp = new int[array.length];
+
+        splitHalf(array, tmp, 0, array.length-1);
+
+        return array;
+    }
+}
+
+
+/*
 public class Solution {
     private int[] mergeSortHelper(int[] array, int left, int right) {
 
@@ -63,9 +121,11 @@ public class Solution {
 
     public int[] mergeSort(int[] array) {
         // Write your solution here.
-        if (array.length == 0 || array == null /*Just in case... I know it is stupid lol*/) {
+        if (array.length == 0 || array == null) {
             return array;
         }
         return mergeSortHelper(array, 0, array.length-1);
     }
 }
+
+*/

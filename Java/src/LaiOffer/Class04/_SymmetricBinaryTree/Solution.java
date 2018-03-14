@@ -1,4 +1,4 @@
-package LaiOffer.Class4._SymmetricBinaryTree;
+package LaiOffer.Class04._SymmetricBinaryTree;
 import java.util.List;
 import java.util.ArrayList;
 

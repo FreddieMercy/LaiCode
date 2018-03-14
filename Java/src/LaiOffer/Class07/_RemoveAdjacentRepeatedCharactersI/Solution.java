@@ -1,4 +1,4 @@
-package LaiOffer.Class7._RemoveAdjacentRepeatedCharactersI;
+package LaiOffer.Class07._RemoveAdjacentRepeatedCharactersI;
 
 public class Solution {
     public String deDup(String input) {

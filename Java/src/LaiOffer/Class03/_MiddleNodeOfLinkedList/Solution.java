@@ -1,4 +1,4 @@
-package LaiOffer.Class3._MiddleNodeOfLinkedList;
+package LaiOffer.Class03._MiddleNodeOfLinkedList;
 
 class ListNode {
   public int value;

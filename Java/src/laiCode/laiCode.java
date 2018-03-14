@@ -11,7 +11,8 @@ import java.lang.*;
 import java.lang.reflect.Array;
 import java.util.*;
 import java.util.concurrent.DelayQueue;
-import LaiOffer.Class6._CombinationsOfCoins.Solution;
+import LaiOffer.Class06._AllPermutationsI.Solution;
+
 /**
  *
  * @author junhao.zhang.freddie
@@ -25,12 +26,12 @@ public class laiCode {
     public static void main(String[] args) {
 
         Solution x = new Solution();
-        for(List<Integer> i : x.combinations(99, new int[]{1,5,10,25})) {
-            for(Integer j : i){
-                System.out.print(j);
-                System.out.print(" ");
-            }
-            System.out.println();
+
+        for(String s : x.permutations("abc")){
+            System.out.print(s+" ");
         }
+
+        System.out.println();
+
     }
 }

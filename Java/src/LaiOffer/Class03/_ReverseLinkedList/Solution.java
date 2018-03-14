@@ -1,4 +1,4 @@
-package LaiOffer.Class3._ReverseLinkedList;
+package LaiOffer.Class03._ReverseLinkedList;
 
  class ListNode {
      public int value;
@@ -12,14 +12,43 @@ package LaiOffer.Class3._ReverseLinkedList;
 
 public class Solution {
     public ListNode reverse(ListNode head) {
-        // Write your solution here
-        ListNode ans = null;
+
+        ListNode newHead =null;
+
         while(head!=null){
-            ListNode tmp = new ListNode(head.value);
-            tmp.next = ans;
-            ans = tmp;
-            head = head.next;
+
+            ListNode tmpHead = head.next;
+
+            head.next = newHead;
+            newHead = head;
+
+            head = tmpHead;
         }
-        return ans;
+
+        return newHead;
     }
 }
+
+
+ /*
+public class Solution {
+    public ListNode reverse(ListNode head) {
+
+        if(head == null || head.next == null){
+            return head;
+        }
+        ListNode tmp = head.next;
+
+        head.next = null;
+
+        ListNode newHead = reverse(tmp);
+        tmp.next = head;
+
+        return newHead;
+
+    }
+}
+
+
+ */
+

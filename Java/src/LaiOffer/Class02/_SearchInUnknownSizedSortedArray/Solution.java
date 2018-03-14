@@ -1,4 +1,4 @@
-package LaiOffer.Class2._SearchInUnknownSizedSortedArray;
+package LaiOffer.Class02._SearchInUnknownSizedSortedArray;
 
   interface Dictionary {
     public Integer get(int index);

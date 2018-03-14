@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package LaiOffer.Class5._KthSmallestNumberInSortedMatrix;
+package LaiOffer.Class05._KthSmallestNumberInSortedMatrix;
 import java.util.Stack;
 /**
  *

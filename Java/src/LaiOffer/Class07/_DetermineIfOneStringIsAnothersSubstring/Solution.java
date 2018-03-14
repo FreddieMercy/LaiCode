@@ -1,4 +1,4 @@
-package LaiOffer.Class7._DetermineIfOneStringIsAnothersSubstring;
+package LaiOffer.Class07._DetermineIfOneStringIsAnothersSubstring;
 import java.util.List;
 import java.util.ArrayList;
 

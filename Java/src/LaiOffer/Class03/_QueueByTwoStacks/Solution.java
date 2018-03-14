@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package LaiOffer.Class3._QueueByTwoStacks;
+package LaiOffer.Class03._QueueByTwoStacks;
 import java.util.Stack;
 /**
  *

@@ -1,4 +1,4 @@
-package LaiOffer.Class1._RainbowSort;
+package LaiOffer.Class01._RainbowSort;
 
 public class Solution {
     private void swap(int[] array, int i, int j){

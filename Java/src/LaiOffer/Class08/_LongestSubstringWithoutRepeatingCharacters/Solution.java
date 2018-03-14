@@ -1,4 +1,4 @@
-package LaiOffer.Class8._LongestSubstringWithoutRepeatingCharacters;
+package LaiOffer.Class08._LongestSubstringWithoutRepeatingCharacters;
 import java.lang.Math;
 
 public class Solution {

@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package LaiOffer.Class1._SelectionSort;
+package LaiOffer.Class01._SelectionSort;
 import java.lang.*;
 
 /**

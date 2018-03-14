@@ -1,4 +1,4 @@
-package LaiOffer.Class4._preorderTraversalOfBinaryTree;
+package LaiOffer.Class04._preorderTraversalOfBinaryTree;
 import java.util.List;
 import java.util.ArrayList;
 
