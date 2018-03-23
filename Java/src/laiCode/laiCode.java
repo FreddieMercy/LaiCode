@@ -11,7 +11,7 @@ import java.lang.*;
 import java.lang.reflect.Array;
 import java.util.*;
 import java.util.concurrent.DelayQueue;
-import LaiOffer.Class06._AllPermutationsI.Solution;
+import  LaiOffer.Class13._DictionaryWordI.Solution;
 
 /**
  *
@@ -27,11 +27,7 @@ public class laiCode {
 
         Solution x = new Solution();
 
-        for(String s : x.permutations("abc")){
-            System.out.print(s+" ");
-        }
-
-        System.out.println();
+        System.out.println(x.canBreak("bcdabc", new String[]{"abc","bcd","def"}));
 
     }
 }
