@@ -2,7 +2,77 @@ package LaiOffer.Class10._SpiralOrderTraverseI;
 
 import java.util.ArrayList;
 import java.util.List;
+public class Solution {
+    public List<Integer> spiral(int[][] matrix) {
+        List<Integer> ans = new ArrayList<>();
 
+        int start = 0;
+        int end = matrix.length - 1;
+
+
+        while (start < end) {
+            for (int i = start; i < end; ++i) {
+                ans.add(matrix[start][i]);
+            }
+            for (int i = start; i < end; ++i) {
+                ans.add(matrix[i][end]);
+            }
+            for (int i = end; i > start; --i) {
+                ans.add(matrix[end][i]);
+            }
+            for (int i = end; i > start; --i) {
+                ans.add(matrix[i][start]);
+            }
+
+            start++;
+            end--;
+        }
+
+        if (start == end) {
+            ans.add(matrix[start][end]);
+        }
+
+
+        return ans;
+    }
+}
+/*
+public class Solution {
+    public List<Integer> spiral(int[][] matrix) {
+        List<Integer> ans = new ArrayList<>();
+        Traverse(matrix, 0, matrix.length - 1, ans);
+        return ans;
+    }
+
+    private void Traverse(int[][] matrix, int x, int y, List<Integer> ans) {
+
+        if (y < 0) {
+            return;
+        }
+
+        if (y==0) {
+            ans.add(matrix[x][x]);
+            return;
+        }
+
+        for (int i = 0; i < y; ++i) {
+            ans.add(matrix[x][x+i]);
+        }
+        for (int i = 0; i < y; ++i) {
+            ans.add(matrix[x+i][x+y]);
+        }
+
+        for (int i = 0; i < y; ++i) {
+            ans.add(matrix[x+y][x+y - i]);
+        }
+        for (int i = 0; i < y; ++i) {
+            ans.add(matrix[x+y - i][x]);
+        }
+        Traverse(matrix, x + 1, y - 2, ans);
+    }
+}
+*/
+/*
 public class Solution {
     public List<Integer> spiral(int[][] matrix) {
         List<Integer> ans = new ArrayList<>();
@@ -78,3 +148,4 @@ public class Solution {
 
 
 
+*/

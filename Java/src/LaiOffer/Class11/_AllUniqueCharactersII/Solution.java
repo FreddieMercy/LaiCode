@@ -8,7 +8,6 @@ public class Solution {
             if(((ascii[c/32]>>>(c%32))&1)==1){
                 return false;
             }
-            int num = (ascii[c/32]>>>(c%32));
             ascii[c/32] += (1 << c%32);
         }
 

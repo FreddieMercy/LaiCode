@@ -5,6 +5,28 @@ import java.util.LinkedList;
 
 public class Solution {
     public boolean canJump(int[] array) {
+        if (array == null || array.length <= 1) {
+            return true;
+        }
+
+        boolean[] dp = new boolean[array.length];
+        dp[0] = true;
+
+        for (int target = 1; target < dp.length; ++target) {
+            for (int cur = 0; cur < target; ++cur) {
+                if (dp[cur] && target <= cur + array[cur]) {
+                    dp[target] = true;
+                    break;
+                }
+            }
+        }
+        return dp[dp.length - 1];
+    }
+}
+
+/*
+public class Solution {
+    public boolean canJump(int[] array) {
         // Write your solution here
         if(array==null){
             return true;
@@ -33,3 +55,4 @@ public class Solution {
         return true;
     }
 }
+*/
