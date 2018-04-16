@@ -36,7 +36,6 @@ public class Solution {
             tail = tail.next;
             head = head.next;
         }
-
         return dummy.next;
     }
 }
