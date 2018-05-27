@@ -4,14 +4,10 @@
  * and open the template in the editor.
  */
 package laiCode;
-import com.sun.tools.javac.util.ArrayUtils;
-import javafx.util.Pair;
 
 import java.lang.*;
-import java.lang.reflect.Array;
-import java.util.*;
-import java.util.concurrent.DelayQueue;
-import  LaiOffer.Practise._Quiz_LargestSubArraySum.Solution;
+
+import  Practise._Quiz_LargestSubArraySum.Solution;
 
 /**
  *
@@ -27,7 +23,7 @@ public class laiCode {
 
         Solution x = new Solution();
 
-        System.out.println(x.validParentheses(3,0,0));
+        System.out.println(x.largestSum(new int[] {3,0,0})[0]);
 
     }
 }
