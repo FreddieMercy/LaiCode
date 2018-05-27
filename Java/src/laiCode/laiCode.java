@@ -11,7 +11,7 @@ import java.lang.*;
 import java.lang.reflect.Array;
 import java.util.*;
 import java.util.concurrent.DelayQueue;
-import  LaiOffer.Class13._DictionaryWordI.Solution;
+import  LaiOffer.Practise._Quiz_LargestSubArraySum.Solution;
 
 /**
  *
@@ -27,7 +27,7 @@ public class laiCode {
 
         Solution x = new Solution();
 
-        System.out.println(x.canBreak("bcdabc", new String[]{"abc","bcd","def"}));
+        System.out.println(x.validParentheses(3,0,0));
 
     }
 }
