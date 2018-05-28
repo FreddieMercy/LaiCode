@@ -143,6 +143,12 @@
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="EvaluateReversePolishNotation.h" />
+    <ClInclude Include="HeightofBinaryTree.h" />
+    <ClInclude Include="SearchInShiftedSortedArrayI.h" />
+    <ClInclude Include="SearchInShiftedSortedArrayII.h" />
+    <ClInclude Include="ShiftPosition.h" />
+    <ClInclude Include="TotalOccurrence.h" />
     <ClInclude Include="_AllPermutationsII.h" />
     <ClInclude Include="_AllSubsetsII.h" />
     <ClInclude Include="_DecompressStringII.h" />

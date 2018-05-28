@@ -31,6 +31,9 @@
     <Filter Include="Header Files\laiOffer\Class10">
       <UniqueIdentifier>{82c62a80-aee6-4724-87d6-209f467d9155}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Practice">
+      <UniqueIdentifier>{81eaf1b5-dda5-4bc6-8f60-a3067369b8bf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp">
@@ -82,6 +85,24 @@
     </ClInclude>
     <ClInclude Include="_ReverseWordsInASentenceI.h">
       <Filter>Header Files\laiOffer\Class8</Filter>
+    </ClInclude>
+    <ClInclude Include="HeightofBinaryTree.h">
+      <Filter>Header Files\Practice</Filter>
+    </ClInclude>
+    <ClInclude Include="EvaluateReversePolishNotation.h">
+      <Filter>Header Files\Practice</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchInShiftedSortedArrayI.h">
+      <Filter>Header Files\Practice</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchInShiftedSortedArrayII.h">
+      <Filter>Header Files\Practice</Filter>
+    </ClInclude>
+    <ClInclude Include="ShiftPosition.h">
+      <Filter>Header Files\Practice</Filter>
+    </ClInclude>
+    <ClInclude Include="TotalOccurrence.h">
+      <Filter>Header Files\Practice</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
