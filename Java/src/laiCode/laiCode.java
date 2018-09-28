@@ -6,8 +6,10 @@
 package laiCode;
 
 import java.lang.*;
+import java.util.Arrays;
+import java.util.LinkedList;
 
-import  Practise._Quiz_LargestSubArraySum.Solution;
+import  LaiOffer.GoogleInterview.SortWith2Stacks.Solution;
 
 /**
  *
@@ -23,7 +25,7 @@ public class laiCode {
 
         Solution x = new Solution();
 
-        System.out.println(x.largestSum(new int[] {3,0,0})[0]);
+        x.sort(new LinkedList<Integer>(Arrays.asList(4, 1, 2, 3)));
 
     }
 }
